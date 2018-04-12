@@ -18,4 +18,4 @@ The models can be used in real-time streaming environments, but as of now (12.04
 
 The models used in this project are all random forest regressors trained on the boston housing market dataset from scikit-learn.
 
-You can take a look at the jupyter notebook [here](https://github.com/carstendev/machine-learning-packaging).
+You can take a look at the jupyter notebook used to create the models [here](https://github.com/carstendev/machine-learning-packaging).
