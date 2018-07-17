@@ -6,7 +6,7 @@ The typical creation of ML-Moldels starts with a data scientist creating the act
 When the model is evaluated to be sufficient given the projects requirements, a developer will rewrite the model to fit into
 the actual production environment. This rewrite unfortunetly often leads to unintended side effects, bugs and costs time and money.
 
-To streamline this process there are various steps a organisation can take. Lets me name a few:
+To streamline this process there are various steps an organisation can take. Lets me name a few:
 + Get the data scientists to write models in the preferred language of the developement team :thumbsdown:
 + Expose the model in a Webservice over REST (forces another app that has to monitored, etc. into the environment) :thumbsdown:
 + Package the models in language independent packages, so the models can be used in every supported language :thumbsup:
