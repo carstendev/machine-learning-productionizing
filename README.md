@@ -1,5 +1,5 @@
 # machine-learning-productionizing
-This project shows how to use H20 and JPMML to load and use a prediction model created in another language.
+This project shows how to use H20 and JPMML to load and use a prediction model created in another progamming language.
 
 ### What problem does this address?
 The typical creation of ML-Moldels starts with a data scientist creating the actual model in Python, R or Matlab on his machine.
